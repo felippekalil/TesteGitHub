@@ -1,0 +1,10 @@
+C:\Users\Kalil\Desktop\TesteGitHub\bin\Debug\TesteGitHub.exe.config
+C:\Users\Kalil\Desktop\TesteGitHub\bin\Debug\TesteGitHub.exe
+C:\Users\Kalil\Desktop\TesteGitHub\bin\Debug\TesteGitHub.pdb
+C:\Users\Kalil\Desktop\TesteGitHub\obj\Debug\TesteGitHub.csprojAssemblyReference.cache
+C:\Users\Kalil\Desktop\TesteGitHub\obj\Debug\TesteGitHub.FormGit.resources
+C:\Users\Kalil\Desktop\TesteGitHub\obj\Debug\TesteGitHub.Properties.Resources.resources
+C:\Users\Kalil\Desktop\TesteGitHub\obj\Debug\TesteGitHub.csproj.GenerateResource.cache
+C:\Users\Kalil\Desktop\TesteGitHub\obj\Debug\TesteGitHub.csproj.CoreCompileInputs.cache
+C:\Users\Kalil\Desktop\TesteGitHub\obj\Debug\TesteGitHub.exe
+C:\Users\Kalil\Desktop\TesteGitHub\obj\Debug\TesteGitHub.pdb
